@@ -1,1 +1,3 @@
 # odin-landing-page
+
+The current project focuses on building a landing page as part of The Odin Project's Web Development Foundations course. This project is designed to help me practice and apply my HTML and CSS skills by creating a visually appealing and functional landing page. I'll learn how to structure a webpage, style it using CSS, and make it responsive to different screen sizes. This hands-on project will reinforce my understanding of web development fundamentals and prepare me for more advanced topics.
